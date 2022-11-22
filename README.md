@@ -2,7 +2,7 @@
 - 👀 I’m interested in web develoment.
 - 🌱 I’m currently learning HTML, CSS and JS, but I want to learn Python.
 - 💞️ I’m looking to collaborate on Webs.
-- 📫 How to reach me: email: alejandrocolegio16@gmail.com
+- 📫 How to reach me: email: alejandrocolegio16@gmail.com and https://blog-alejo-yoalejogh.vercel.app/
 
 - Ill be waiting to meet people that want to teach me new thing in this world.
 
