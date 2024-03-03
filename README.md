@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YoAlejoGH.
-- 👀 I’m interested in web develoment.
-- 🌱 I have experience with HTML, CSS, JS and WordPress, but I want to learn Python, Switch.
+- 👀 I’m interested in web develoment and Software.
+- 🌱 I have experience with HTML, CSS, JS, WordPress, Python, C++ and C#
 - 💞️ I’m looking to collaborate on Webs.
-- 📫 How to reach me: email: alejandrocolegio16@gmail.com and https://blog-alejo-yoalejogh.vercel.app/
+- 📫 How to reach me: email: alejandrocolegio16@gmail.com
 
 - Ill be waiting to meet people that want to teach me new thing in this world.
 
