@@ -42,7 +42,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-<footer style="display: flex; justofy-content: center; aling-items: center;">
+<footer aling="center">
         <p style="float:left; width: 20%;">
         Copyright © Alejandro Hurtado Alvarez, 2023
         </p>
